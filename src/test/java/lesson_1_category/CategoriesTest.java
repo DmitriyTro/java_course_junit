@@ -1,3 +1,5 @@
+package lesson_1_category;
+
 import org.junit.Test;
 import org.junit.experimental.categories.Categories.IncludeCategory;
 import org.junit.experimental.categories.Category;
